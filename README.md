@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">纯正萌新丁真</h1>
-<p align="center">现在在信息安全专业，还在学习ing</p>
+<p align="center">现在是信息安全专业本科生，还在学习ing</p>
 <p align="center">
 <img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=ZixinYan&theme=github_dark&show_icons=true&show=reviews&hide_title=true&hide=contribs&hide_border=true" />
 </p>
