@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
+<h1 align="center">Hello! 👋</h1>
 <h3 align="center">本科生 | 信息安全专业 | 还在学习ing 🚀</h3>
 
 <p align="center">
@@ -13,16 +14,16 @@
 </p>
 
 <p align="center">
-  <img src="https://shields.io/badge/Currently%20Learning-Security%20Tools-brightgreen" />
-  <img src="https://shields.io/badge/Currently%20Working%20On-Research%20in%20Cybersecurity%20Protocols-blue" />
+  <img src="https://shields.io/badge/Currently%20Learning-JavaWeb%20Tools-brightgreen" />
+  <img src="https://shields.io/badge/Currently%20Working%20On-Research%20in%20GridAttackSim%20Protocols-blue" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zixinyan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ZixinYan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:zixin.yan@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:a769913449@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://weixin.qq.com/r/ALz5j5Rzo2Jxa3XtU_MYso" target="_blank"><img src="https://img.shields.io/badge/WeChat-09B83E?style=flat&logo=wechat&logoColor=white" /></a>
 </p>
 
 <p align="center">
