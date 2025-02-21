@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
-<h1 align="center">Hello! I'm Zixin Yan 👋</h1>
 <h3 align="center">本科生 | 信息安全专业 | 还在学习ing 🚀</h3>
 
 <p align="center">
