@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/ZixinYan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:a769913449@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:a769913449@Gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://weixin.qq.com/r/ALz5j5Rzo2Jxa3XtU_MYso" target="_blank"><img src="https://img.shields.io/badge/WeChat-09B83E?style=flat&logo=wechat&logoColor=white" /></a>
 </p>
 
