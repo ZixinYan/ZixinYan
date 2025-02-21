@@ -1,12 +1,31 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&fontSize=80&fontAlign=50&fontAlignY=30&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
-<h1 align="center">信息安全专业本科生，还在学习ing</h1>
-<p align="center"></p>
+<h1 align="center">Hello! I'm Zixin Yan 👋</h1>
+<h3 align="center">本科生 | 信息安全专业 | 还在学习ing 🚀</h3>
+
 <p align="center">
-<img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=ZixinYan&theme=github_dark&show_icons=true&show=reviews&hide_title=true&hide=contribs&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZixinYan&theme=gruvbox&show_icons=true&hide=prs&hide_title=true&hide_border=true" />
 </p>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&&section=footer&fontSize=80&fontAlign=50&fontAlignY=70&animation=twinkling" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixinYan&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://shields.io/badge/Currently%20Learning-Security%20Tools-brightgreen" />
+  <img src="https://shields.io/badge/Currently%20Working%20On-Research%20in%20Cybersecurity%20Protocols-blue" />
+</p>
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zixinyan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ZixinYan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:zixin.yan@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&fontSize=80&fontAlign=50&fontAlignY=70&animation=twinkling" />
 </p>
