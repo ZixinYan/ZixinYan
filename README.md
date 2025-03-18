@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://shields.io/badge/Currently%20Learning-JavaWeb%20Nginx-brightgreen" />
-  <img src="https://shields.io/badge/Currently%20Working%20On-Research%20in%20GridAttackSim%20-blue" />
+  <img src="https://shields.io/badge/Currently%20Learning-SpringCloud%20Nginx-brightgreen" />
+  <img src="https://shields.io/badge/Currently%20Working%20On-Research%20in%20ml-platform%20-blue" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
