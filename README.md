@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello! 👋</h1>
-<h3 align="center">本科生 | 信息安全专业 | 还在学习ing 🚀</h3>
+<h3 align="center">信息安全本科生 🚀</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZixinYan&theme=gruvbox&show_icons=true&hide=prs&hide_title=true&hide_border=true" />
