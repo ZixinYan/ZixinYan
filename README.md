@@ -9,15 +9,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+Welcome+to+my+profile;I'm+a+passionate+developer.;Lifelong+learner+%F0%9F%93%9A;Coding+my+way+to+freedom!" />
 </p>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Learning-SpringCloud%20|%20Nginx-brightgreen?style=flat-square&logo=spring" />
   <img src="https://img.shields.io/badge/Working%20On-mlplatform-blue?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Favorite%20Language-Java%20|%20Python-orange?style=flat-square&logo=java" />
 </p>
 
----
 
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ZixinYan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -36,7 +33,6 @@
   <img src="https://komarev.com/ghpvc/?username=ZixinYan&style=flat-square&color=blueviolet" />
 </div>
 
----
 
 ### 🐍 Contribution Snake
 
@@ -44,7 +40,6 @@
   <img src="https://github.com/ZixinYan/ZixinYan/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
 <h3 align="center">🌐 Connect with me</h3>
 
