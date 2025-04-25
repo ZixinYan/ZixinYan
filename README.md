@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋   大家好啊！我是说的码农，今天给大家看点儿想看的东西 👋</h1>
-<h3 align="center">🚀       《😫无职转生！当了码农却没有真本事😫》       🚀</h3>
+<h3 align="center">🚀       《😫无职转生！成为码农却拿不出真本事😫》       🚀</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZixinYan&theme=gruvbox&show_icons=true&hide=prs&hide_title=true&hide_border=true" />
