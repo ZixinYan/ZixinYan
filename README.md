@@ -2,11 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&section=header&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
-<h1 align="center">👋 大家好啊！我是说的码农 👋</h1>
-<h3 align="center">🚀《😫 无职转生！成为牛马却拿不出真本事 😫》🚀</h3> 
+<h3 align="center">🚀《![011B2C7E](https://github.com/user-attachments/assets/5a748c38-c5a0-4498-9f39-52eb2d6d4f76)无职转生！成为牛马却拿不出真本事![011AF07E](https://github.com/user-attachments/assets/6edbe541-7a8f-4aed-9130-f219685858a2)》🚀</h3> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=3500&pause=1000&color=F5A623&center=true&vCenter=true&width=700&lines=✨+欢迎来到我的主页!;👨‍💻+欢迎交流，提出宝贵意见!;🌟+如果觉得不错，别忘了点个⭐!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=3500&pause=1000&color=F5A623&center=true&vCenter=true&width=700&lines=✨+欢迎各位大佬捏!;👨‍💻+请多多在issue中为我提建议!;🌟+如果觉得不错，别忘了点个⭐!" />
 </p>
 
 
