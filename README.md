@@ -2,16 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
-<h1 align="center">👋   大家好啊！我是说的码农，今天给大家看点儿想看的东西 👋</h1>
-<h3 align="center">🚀       《😫无职转生！成为码农却拿不出真本事😫》       🚀</h3>
+<h1 align="center">👋  大家好啊 👋</h1>
+<h3 align="center">🚀 《😫无职转生！成为码农却拿不出真本事😫》 🚀</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZixinYan&theme=gruvbox&show_icons=true&hide=prs&hide_title=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixinYan&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
-</p>
+<div>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rodma1&show_icon链=true&theme=flag-india" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodma1&show_icons=true&theme=flag-india&layout=compact" />
+</div>
 
 <p align="center">
   <img src="https://shields.io/badge/Currently%20Learning-SpringCloud%20Nginx-brightgreen" />
