@@ -1,11 +1,11 @@
-<p align="center">
+![011CCA40](https://github.com/user-attachments/assets/e0fed428-2f26-48df-8d23-a55781e9084c)<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&section=header&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
-<h3 align="center">《无职转生！成为牛马却拿不出真本事o(╥﹏╥)o》</h3> 
+<h3 align="center">🚀 无职转生！成为牛马却拿不出真本事 🚀</h3> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=3500&pause=1000&color=F5A623&center=true&vCenter=true&width=700&lines=✨+欢迎各位大佬捏!;👨‍💻+请多多在issue中为我提建议!;🌟+如果觉得不错，别忘了点个⭐!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=3500&pause=1000&color=F5A623&center=true&vCenter=true&width=700&lines=✨+欢迎各位大佬捏!+✨;💻+这里是一只学开发的信安鼠鼠+💻!;🌟+如果觉得不错，别忘了点个⭐捏!+🌟" />
 </p>
 
 
