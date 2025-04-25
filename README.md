@@ -6,7 +6,7 @@
 <h3 align="center">🚀《😫 无职转生！成为牛马却拿不出真本事 😫》🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FFFF&center=true&vCenter=true&width=500&lines=热爱编程！热爱生活！" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=E0AFFF&center=true&vCenter=true&width=700&lines=💫+Welcome+Traveler...;🌐+Entering+the+Dev+Multiverse;🛠️+Loading+Java%2FPython%2FML+Modules" />
 </p>
 
 <p align="center">
