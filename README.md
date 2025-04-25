@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&section=header&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
-<h1 align="center">👋 大家好啊 👋</h1>
-<h3 align="center">🚀《😫 无职转生！成为码农却拿不出真本事 😫》🚀</h3>
+<h1 align="center">👋 大家好啊！我是说的码农 👋</h1>
+<h3 align="center">🚀《😫 无职转生！成为牛马却拿不出真本事 😫》🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+Welcome+to+my+profile;I'm+a+passionate+developer.;Lifelong+learner+%F0%9F%93%9A;Coding+my+way+to+freedom!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FFFF&center=true&vCenter=true&width=500&lines=热爱编程！热爱生活！" />
 </p>
 
 <p align="center">
@@ -32,14 +32,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ZixinYan&style=flat-square&color=blueviolet" />
 </div>
-
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/ZixinYan/ZixinYan/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 
 <h3 align="center">🌐 Connect with me</h3>
 
