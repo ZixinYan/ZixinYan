@@ -6,8 +6,8 @@
 <h3 align="center">🚀 《😫无职转生！成为码农却拿不出真本事😫》 🚀</h3>
 
 <div>
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rodma1&show_icon链=true&theme=flag-india" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodma1&show_icons=true&theme=flag-india&layout=compact" />
+<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=ZixinYan&show_icon链=true&theme=flag-india" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixinYan&show_icons=true&theme=flag-india&layout=compact" />
 </div>
 
 <p align="center">
@@ -27,4 +27,4 @@
 </p>
 
 ### ✨Visitors
-[![ViewCount](https://views.whatilearened.today/views/github/Rodma1/Rodma1.svg?cache=remove)](#)
+[![ViewCount](https://views.whatilearened.today/views/github/ZixinYan/ZixinYan.svg?cache=remove)](#)
