@@ -6,8 +6,9 @@
 <h3 align="center">🚀《😫 无职转生！成为牛马却拿不出真本事 😫》🚀</h3> 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=E0AFFF&center=true&vCenter=true&width=700&lines=💫+欢迎+各位大佬...;🌐+希望多在issus中给我提提意见;🛠️+觉得不错可以点点star" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=3500&pause=1000&color=F5A623&center=true&vCenter=true&width=700&lines=✨+欢迎来到我的主页!;👨‍💻+欢迎交流，提出宝贵意见!;🌟+如果觉得不错，别忘了点个⭐!" />
 </p>
+
 
 
 <p align="center">
@@ -23,11 +24,17 @@
 </div>
 
 <div align="center">
+  <img src="https://wakatime.com/share/@ZixinYan/abcd1234.png" />
+</div>
+
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZixinYan&theme=tokyonight" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ZixinYan&style=flat-square&color=blueviolet" />
+  [![ViewCount](https://views.whatilearened.today/views/github/ZixinYan/ZixinYan.svg?cache=remove)](#)
 </div>
 
 <h3 align="center">🌐 Connect with me</h3>
