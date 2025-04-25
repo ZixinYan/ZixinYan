@@ -3,11 +3,12 @@
 </p>
 
 <h1 align="center">👋 大家好啊！我是说的码农 👋</h1>
-<h3 align="center">🚀《😫 无职转生！成为牛马却拿不出真本事 😫》🚀</h3>
+<h3 align="center">🚀《😫 无职转生！成为牛马却拿不出真本事 😫》🚀</h3> 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=E0AFFF&center=true&vCenter=true&width=700&lines=💫+Welcome+Traveler...;🌐+Entering+the+Dev+Multiverse;🛠️+Loading+Java%2FPython%2FML+Modules" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=E0AFFF&center=true&vCenter=true&width=700&lines=💫+欢迎+各位大佬...;🌐+希望多在issus中给我提提意见;🛠️+觉得不错可以点点star" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Learning-SpringCloud%20|%20Nginx-brightgreen?style=flat-square&logo=spring" />
@@ -19,10 +20,6 @@
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ZixinYan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixinYan&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZixinYan&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
