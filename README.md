@@ -1,4 +1,4 @@
-![011CCA40](https://github.com/user-attachments/assets/e0fed428-2f26-48df-8d23-a55781e9084c)<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&section=header&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
@@ -7,6 +7,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=3500&pause=1000&color=F5A623&center=true&vCenter=true&width=700&lines=✨+欢迎各位大佬捏!+✨;💻+这里是一只学开发的信安鼠鼠+💻!;🌟+如果觉得不错，别忘了点个⭐捏!+🌟" />
 </p>
+
+<p align="center">
+  <img src="https://svgart.sh/?text=%E6%AC%A2%E8%BF%8E%E5%90%84%E4%BD%8D%E5%A4%A7%E4%BD%AC%E5%96%BA%21&font=Great+Vibes&color=F5A623&size=60&width=700" />
+</p>
+
 
 
 
@@ -33,7 +38,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ZixinYan&style=flat-square&color=blueviolet" />
-  [![ViewCount](https://views.whatilearened.today/views/github/ZixinYan/ZixinYan.svg?cache=remove)](#)
+  <img src="https://views.whatilearened.today/views/github/ZixinYan/ZixinYan.svg?cache=remove" />
 </div>
 
 <h3 align="center">🌐 Connect with me</h3>
