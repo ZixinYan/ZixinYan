@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&section=header&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
-<h3 align="center">🚀 《关于我加班猝死转生异世界还是码农这件事》 🚀</h3> 
+<h2 align="center">🚀 《关于我加班猝死转生异世界还是码农这件事》 🚀</h2> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=2000&pause=500&color=F5A623&center=true&vCenter=true&width=700&lines=我是ygnzxydlz;在一次风雨交加的夜晚;我目击到了代码review的现场；但是却没有注意到bug同伙悄然逼近，在战斗中猝死；重生后，我发现…；我竟然还是一个码农!;人生虽然remake，但牛马的命运仍然没变!;不管任何情况，bug不只一个!;ygnzxdlz!堂堂转生！" />
@@ -31,14 +31,12 @@
 </div>
 
 <div align="center">
-   <img src="https://img.shields.io/github/followers/ZixinYan?style=social" />
   <img src="https://komarev.com/ghpvc/?username=ZixinYan&style=flat-square&color=blueviolet" />
   <img src="https://views.whatilearened.today/views/github/ZixinYan/ZixinYan.svg?cache=remove" />
-  <img src="https://img.shields.io/github/stars/ZixinYan?style=social" />
 </div>
 
 
-<h3 align="center">🌐 Connect with me</h3>
+<h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
   <a href="https://github.com/ZixinYan" target="_blank">
