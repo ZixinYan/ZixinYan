@@ -25,3 +25,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&fontSize=80&fontAlign=50&fontAlignY=70&animation=twinkling" />
 </p>
+
+### ✨Visitors
+[![ViewCount](https://views.whatilearened.today/views/github/Rodma1/Rodma1.svg?cache=remove)](#)
