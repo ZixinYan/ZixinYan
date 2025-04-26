@@ -17,7 +17,7 @@ jobs:
           LOCALE: zh
           SHOW_LANGUAGE: true
           SHOW_OS: false
-          SHOW_PROJECTS: false
+          SHOW_PROJECTS: true
           SHOW_TIMEZONE: False
           SHOW_LOC_CHART: False
           SHOW_SHORT_INFO: False
