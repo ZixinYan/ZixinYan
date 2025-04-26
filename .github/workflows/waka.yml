@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH }}
-          LOCALE: zh-CN  # 设置为中文显示
+          LOCALE: zh  # 设置为中文显示
           SHOW_LANGUAGE: true  # 显示语言使用统计
           SHOW_OS: false  # 不显示操作系统统计
           SHOW_PROJECTS: false  # 不显示项目统计
