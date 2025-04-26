@@ -36,8 +36,6 @@
 
 > 📦 307.4 kB Used in GitHub's Storage 
  > 
-> 🏆 213 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -47,21 +45,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                78 commits          ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-🌆 Daytime                91 commits          █████████░░░░░░░░░░░░░░░░   34.34 % 
-🌃 Evening                70 commits          ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-🌙 Night                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+🌞 Morning                79 commits          ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+🌆 Daytime                91 commits          █████████░░░░░░░░░░░░░░░░   34.21 % 
+🌃 Evening                70 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌙 Night                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Tuesday                  50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Wednesday                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Thursday                 14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Friday                   83 commits          ████████░░░░░░░░░░░░░░░░░   31.32 % 
-Saturday                 57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Monday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Tuesday                  50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Wednesday                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Thursday                 14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Friday                   83 commits          ████████░░░░░░░░░░░░░░░░░   31.20 % 
+Saturday                 58 commits          █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 
 
@@ -99,7 +97,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ZixinYan/ZixinYan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2025 02:57:52 UTC
+ Last Updated on 26/04/2025 03:04:13 UTC
 <!--END_SECTION:waka-->
 
 
