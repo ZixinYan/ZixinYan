@@ -30,60 +30,48 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+**🐱 我的 GitHub 数据** 
 
-**🐱 My GitHub Data** 
-
-> 📦 307.4 kB Used in GitHub's Storage 
+> 📦  使用了 307.4 kB GitHub 存储空间 
  > 
-> 🏆 213 Contributions in the Year 2025
+> 🚫 不开放招聘
  > 
-> 🚫 Not Opted to Hire
+> 📜 15 个公共仓库 
  > 
-> 📜 15 Public Repositories 
+> 🔑 1 个私人仓库 
  > 
-> 🔑 1 Private Repositories 
- > 
-**I'm an Early 🐤** 
+**我是早起的 🐤** 
 
 ```text
-🌞 Morning                80 commits          ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-🌆 Daytime                91 commits          █████████░░░░░░░░░░░░░░░░   34.08 % 
-🌃 Evening                70 commits          ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-🌙 Night                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+🌞 早晨                     82 commits          ████████░░░░░░░░░░░░░░░░░   30.48 % 
+🌆 白天                     91 commits          ████████░░░░░░░░░░░░░░░░░   33.83 % 
+🌃 傍晚                     70 commits          ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+🌙 晚上                     26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **我最有效率是在 星期五** 
 
 ```text
-Monday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Tuesday                  50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Wednesday                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Thursday                 14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Friday                   83 commits          ████████░░░░░░░░░░░░░░░░░   31.09 % 
-Saturday                 59 commits          ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+星期一                      14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+星期二                      50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+星期三                      34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+星期四                      14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+星期五                      83 commits          ████████░░░░░░░░░░░░░░░░░   30.86 % 
+星期六                      61 commits          ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+星期日                      13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **本周消耗时间** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+💬 编程语言: 
+本周没有记录到任何活动
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+🔥 编辑器: 
+本周没有记录到任何活动
 ```
 
-**I Mostly Code in Java** 
+**我最常使用 Java** 
 
 ```text
 Java                     4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
@@ -94,12 +82,12 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
+**时间线**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/ZixinYan/ZixinYan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2025 03:07:58 UTC
+ Last Updated on 26/04/2025 03:13:25 UTC
 <!--END_SECTION:waka-->
 
 
