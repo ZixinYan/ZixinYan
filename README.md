@@ -28,6 +28,78 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 307.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 213 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                78 commits          ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+🌆 Daytime                91 commits          █████████░░░░░░░░░░░░░░░░   34.34 % 
+🌃 Evening                70 commits          ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+🌙 Night                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Tuesday                  50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Wednesday                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Thursday                 14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Friday                   83 commits          ████████░░░░░░░░░░░░░░░░░   31.32 % 
+Saturday                 57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Vue                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ZixinYan/ZixinYan/main/assets/bar_graph.png)
+
+
+ Last Updated on 26/04/2025 02:57:52 UTC
 <!--END_SECTION:waka-->
 
 
