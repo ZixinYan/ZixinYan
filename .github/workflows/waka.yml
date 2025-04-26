@@ -14,10 +14,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH }}
-          INPUT_SHOW_LANGUAGE: true       
-          INPUT_SHOW_TIMEZONE: false     
-          INPUT_SHOW_OS: false 
-          INPUT_SHOW_PROJECTS: false 
-          INPUT_SHOW_EDITORS: true    
-          INPUT_SHOW_TOTAL_CODE_TIME: true  # 显示总编码时间
-          INPUT_SHOW_LOC_CHART: false  
+          INPUT_LOCALE: zh-CN  # 设置为中文显示
+          INPUT_SHOW_LANGUAGE: true  # 显示语言使用统计
+          INPUT_SHOW_OS: false  # 不显示操作系统统计
+          INPUT_SHOW_PROJECTS: false  # 不显示项目统计
+          INPUT_SHOW_TIMEZONE: false  # 不显示时区信息
+          INPUT_SHOW_COMMIT: true  # 显示提交统计
+          INPUT_SHOW_LINES_OF_CODE: false  # 不显示代码行数
+          INPUT_SHOW_PROFILE_VIEWS: false  # 不显示个人资料查看次数
