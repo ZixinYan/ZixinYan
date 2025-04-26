@@ -21,10 +21,14 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixinYan&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZixinYan&theme=tokyonight" />
 </div>
+
+## 过去一周
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ZixinYan&style=flat-square&color=blueviolet" />
