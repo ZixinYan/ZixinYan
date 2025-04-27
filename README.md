@@ -5,7 +5,7 @@
 <h2 align="center">🚀 《关于我熬夜写码转生异世界还是码农这件事》 🚀</h2> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=2000&pause=500&color=F5A623&center=true&vCenter=true&width=700&lines=我是ygnzxydlz;上一世，我在与bug的战斗中猝死;重生后，我发现…;我竟然还是一个码农!;人生虽然remake，但牛马的命运仍然没变!;不管任何情况，bug不只一个!;ygnzxdlz!堂堂转生！" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=2000&pause=500&color=F5A623&center=true&vCenter=true&width=700&lines=我是ygnzxydlz;上一世，我在与bug的战斗中猝死;重生后，我发现…;竟然还是一个码农!;人生虽然remake，但牛马的命运仍然没变!;不管任何情况，bug不只一个!;ygnzxdlz!堂堂转生！" />
 </p>
 
 
