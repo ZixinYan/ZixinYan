@@ -28,17 +28,17 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-252-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-260-blue)
 
 **我是早起的 🐤** 
 
 ```text
 🌞 早晨                     85 commits          ████████░░░░░░░░░░░░░░░░░   31.84 % 
-🌆 白天                     91 commits          █████████░░░░░░░░░░░░░░░░   34.08 % 
+🌆 白天                     92 commits          █████████░░░░░░░░░░░░░░░░   34.46 % 
 🌃 傍晚                     64 commits          ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-🌙 晚上                     27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+🌙 晚上                     26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 ```
 📅 **我最有效率是在 星期五** 
 
@@ -57,23 +57,24 @@
 
 ```text
 💬 编程语言: 
-Java                     4 hrs 52 mins       ██████████████████░░░░░░░   72.49 % 
-XML                      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Properties               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Java                     8 hrs 22 mins       ████████████████░░░░░░░░░   65.31 % 
+Go                       1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+XML                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            6 hrs 11 mins       ███████████████████████░░   92.19 % 
-PyCharm                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-WebStorm                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+IntelliJ IDEA            10 hrs 30 mins      ████████████████████░░░░░   81.90 % 
+GoLand                   1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+PyCharm                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+WebStorm                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🐱‍💻 项目: 
-ML_Platform              6 hrs 14 mins       ███████████████████████░░   92.84 % 
-Emotional-AI             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-cryptography             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-gin-mall                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+ML_Platform              10 hrs 51 mins      █████████████████████░░░░   84.70 % 
+gin-mall                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+personalWeb              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Emotional-AI             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+cryptography             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 **我最常使用 Java** 
@@ -88,7 +89,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2025 01:01:49 UTC
+ Last Updated on 28/04/2025 01:00:18 UTC
 <!--END_SECTION:waka-->
 
 
