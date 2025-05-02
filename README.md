@@ -28,7 +28,7 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-260-blue)
 
@@ -57,24 +57,24 @@
 
 ```text
 💬 编程语言: 
-Java                     8 hrs 22 mins       ██████████████░░░░░░░░░░░   56.56 % 
-Go                       3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-XML                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Java                     8 hrs 22 mins       █████████████░░░░░░░░░░░░   52.50 % 
+Go                       4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+XML                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            10 hrs 30 mins      ██████████████████░░░░░░░   70.92 % 
-GoLand                   3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-PyCharm                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-WebStorm                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+IntelliJ IDEA            10 hrs 30 mins      ████████████████░░░░░░░░░   65.83 % 
+GoLand                   4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+PyCharm                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+WebStorm                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 项目: 
-ML_Platform              10 hrs 51 mins      ██████████████████░░░░░░░   73.35 % 
-personalWeb              1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-gin-mall                 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Emotional-AI             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-cryptography             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+ML_Platform              10 hrs 51 mins      █████████████████░░░░░░░░   68.08 % 
+personalWeb              2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+gin-mall                 1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Emotional-AI             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+cryptography             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 **我最常使用 Java** 
@@ -89,7 +89,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2025 01:04:22 UTC
+ Last Updated on 02/05/2025 00:59:00 UTC
 <!--END_SECTION:waka-->
 
 
