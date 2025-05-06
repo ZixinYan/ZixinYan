@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-260-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-254-blue)
 
 **我是早起的 🐤** 
 
@@ -85,7 +85,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2025 01:01:50 UTC
+ Last Updated on 06/05/2025 00:59:26 UTC
 <!--END_SECTION:waka-->
 
 
