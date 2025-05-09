@@ -28,7 +28,7 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-254-blue)
 
@@ -57,20 +57,22 @@
 
 ```text
 💬 编程语言: 
-Go                       2 hrs 57 mins       ████████████████████████░   96.36 % 
-Protocol Buffer          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-protobuf                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Go                       8 hrs 16 mins       █████████████████████████   98.17 % 
+Protocol Buffer          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+protobuf                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 编辑器: 
-GoLand                   3 hrs 3 mins        █████████████████████████   99.48 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+GoLand                   8 hrs 24 mins       █████████████████████████   99.81 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 项目: 
-personalWeb              2 hrs 15 mins       ██████████████████░░░░░░░   73.64 % 
-gin-mall                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-helloworld               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+intelligent-route-server 3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.90 % 
+intelligent-route-server-3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.30 % 
+personalWeb              1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+gin-mall                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+helloworld               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 
 **我最常使用 Java** 
@@ -85,7 +87,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/05/2025 01:00:07 UTC
+ Last Updated on 09/05/2025 00:59:18 UTC
 <!--END_SECTION:waka-->
 
 
