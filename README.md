@@ -28,9 +28,9 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-254-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-201-blue)
 
 **我是早起的 🐤** 
 
@@ -57,22 +57,22 @@
 
 ```text
 💬 编程语言: 
-Go                       8 hrs 16 mins       █████████████████████████   98.17 % 
-Protocol Buffer          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-protobuf                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Go                       13 hrs 13 mins      ████████████████████████░   97.75 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Protocol Buffer          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+protobuf                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 编辑器: 
-GoLand                   8 hrs 24 mins       █████████████████████████   99.81 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+GoLand                   13 hrs 30 mins      █████████████████████████   99.88 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 项目: 
-intelligent-route-server 3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.90 % 
-intelligent-route-server-3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.30 % 
-personalWeb              1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-gin-mall                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-helloworld               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+intelligent-route-server-6 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.80 % 
+intelligent-route-server 3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+generation               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+personalWeb              1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+gin-mall                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 
 **我最常使用 Java** 
@@ -87,7 +87,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2025 00:59:18 UTC
+ Last Updated on 10/05/2025 00:57:21 UTC
 <!--END_SECTION:waka-->
 
 
