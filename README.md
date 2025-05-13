@@ -57,22 +57,22 @@
 
 ```text
 💬 编程语言: 
-Go                       13 hrs 13 mins      ████████████████████████░   97.75 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Protocol Buffer          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-protobuf                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Go                       20 hrs 26 mins      ████████████████████████░   97.22 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Protocol Buffer          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 编辑器: 
-GoLand                   13 hrs 30 mins      █████████████████████████   99.88 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+GoLand                   21 hrs              █████████████████████████   99.92 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 项目: 
-intelligent-route-server-6 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.80 % 
-intelligent-route-server 3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-generation               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-personalWeb              1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-gin-mall                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+intelligent-route-server-6 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.90 % 
+generation               5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+intelligent-route-server 3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+pay-gateway              1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+personalWeb              1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 ```
 
 **我最常使用 Java** 
@@ -87,7 +87,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2025 01:02:19 UTC
+ Last Updated on 13/05/2025 01:00:21 UTC
 <!--END_SECTION:waka-->
 
 
