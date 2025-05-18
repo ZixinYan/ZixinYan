@@ -28,7 +28,7 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -57,21 +57,21 @@
 
 ```text
 💬 编程语言: 
-Go                       33 hrs 40 mins      █████████████████████████   98.92 % 
+Go                       34 hrs 1 min        █████████████████████████   98.93 % 
 YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 编辑器: 
-GoLand                   34 hrs 2 mins       █████████████████████████   100.00 % 
+GoLand                   34 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-generation               18 hrs 15 mins      █████████████░░░░░░░░░░░░   53.64 % 
-pay-gateway              7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-mchannel-gateway         2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-payment_order_query_svr  1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-payment_order_create_svr 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+generation               18 hrs 36 mins      ██████████████░░░░░░░░░░░   54.11 % 
+pay-gateway              7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+mchannel-gateway         2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+payment_order_query_svr  1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+payment_order_create_svr 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2025 00:58:56 UTC
+ Last Updated on 18/05/2025 01:04:03 UTC
 <!--END_SECTION:waka-->
 
 
