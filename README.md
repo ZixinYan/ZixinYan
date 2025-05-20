@@ -57,21 +57,21 @@
 
 ```text
 💬 编程语言: 
-Go                       34 hrs 1 min        █████████████████████████   98.93 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Go                       34 hrs 58 mins      ████████████████████████░   97.42 % 
+JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 编辑器: 
-GoLand                   34 hrs 23 mins      █████████████████████████   100.00 % 
+GoLand                   35 hrs 54 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-generation               18 hrs 36 mins      ██████████████░░░░░░░░░░░   54.11 % 
-pay-gateway              7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-mchannel-gateway         2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-payment_order_query_svr  1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-payment_order_create_svr 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+generation               23 hrs 1 min        ████████████████░░░░░░░░░   64.11 % 
+pay-gateway              5 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+payment_order_create_svr 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+mchannel-gateway         1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+payment_order_status_upda1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2025 01:03:06 UTC
+ Last Updated on 20/05/2025 01:01:07 UTC
 <!--END_SECTION:waka-->
 
 
