@@ -28,7 +28,7 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -57,21 +57,21 @@
 
 ```text
 💬 编程语言: 
-Go                       34 hrs 58 mins      ████████████████████████░   97.42 % 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Go                       33 hrs 48 mins      ███████████████████████░░   92.97 % 
+JSON                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+go.mod                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 编辑器: 
-GoLand                   35 hrs 54 mins      █████████████████████████   100.00 % 
+GoLand                   36 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-generation               23 hrs 1 min        ████████████████░░░░░░░░░   64.11 % 
-pay-gateway              5 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-payment_order_create_svr 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-mchannel-gateway         1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-payment_order_status_upda1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+generation               21 hrs 30 mins      ███████████████░░░░░░░░░░   59.15 % 
+common                   4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+eventhub                 3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+pay-gateway              2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+mchannel-gateway         1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2025 01:01:07 UTC
+ Last Updated on 21/05/2025 01:00:45 UTC
 <!--END_SECTION:waka-->
 
 
