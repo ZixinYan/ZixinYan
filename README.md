@@ -28,9 +28,9 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
 **我是早起的 🐤** 
 
@@ -57,21 +57,21 @@
 
 ```text
 💬 编程语言: 
-Go                       25 hrs 12 mins      ████████████████████░░░░░   78.37 % 
-YAML                     4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-JSON                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-go.mod                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Go                       21 hrs 14 mins      ████████████████████░░░░░   79.36 % 
+YAML                     4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+go.mod                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 编辑器: 
-GoLand                   32 hrs 10 mins      █████████████████████████   100.00 % 
+GoLand                   26 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-gateway                  14 hrs 32 mins      ███████████░░░░░░░░░░░░░░   45.18 % 
-common                   8 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-eventhub                 5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-generation               3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-leaning                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+gateway                  16 hrs 22 mins      ███████████████░░░░░░░░░░   61.16 % 
+common                   4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+generation               3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+eventhub                 2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+leaning                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2025 00:59:17 UTC
+ Last Updated on 28/05/2025 01:00:41 UTC
 <!--END_SECTION:waka-->
 
 
