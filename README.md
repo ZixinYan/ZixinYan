@@ -28,7 +28,7 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -57,21 +57,22 @@
 
 ```text
 💬 编程语言: 
-Go                       11 hrs 29 mins      ███████████████████░░░░░░   76.48 % 
-YAML                     2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-go.mod                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Go                       11 hrs 20 mins      ██████████████████░░░░░░░   71.61 % 
+YAML                     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Java                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 编辑器: 
-GoLand                   15 hrs 1 min        █████████████████████████   100.00 % 
+GoLand                   14 hrs 52 mins      ███████████████████████░░   93.93 % 
+IntelliJ IDEA            57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 🐱‍💻 项目: 
-data-consistency-checker 10 hrs 41 mins      ██████████████████░░░░░░░   71.16 % 
-generation               3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-pay-gateway              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-gateway                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-scripts                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+data-consistency-checker 10 hrs 32 mins      █████████████████░░░░░░░░   66.56 % 
+generation               3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+ML_Platform              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+pay-gateway              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+gateway                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +87,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2025 00:59:30 UTC
+ Last Updated on 15/06/2025 01:08:01 UTC
 <!--END_SECTION:waka-->
 
 
