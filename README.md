@@ -28,7 +28,7 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -57,22 +57,22 @@
 
 ```text
 💬 编程语言: 
-Go                       17 hrs 5 mins       ███████████████████░░░░░░   76.85 % 
-YAML                     3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Java                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-go.mod                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Go                       15 hrs              █████████████████████░░░░   82.04 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Java                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+go.mod                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 编辑器: 
-GoLand                   21 hrs 16 mins      ████████████████████████░   95.68 % 
-IntelliJ IDEA            57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+GoLand                   17 hrs              ███████████████████████░░   92.93 % 
+IntelliJ IDEA            1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🐱‍💻 项目: 
-data-consistency-checker 14 hrs 25 mins      ████████████████░░░░░░░░░   64.90 % 
-generation               5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-ML_Platform              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-pay-gateway              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-LightEditProject         23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+data-consistency-checker 8 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.62 % 
+generation               5 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+ML_Platform              1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+payment_notification_rece1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+LightEditProject         47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 
 **我最常使用 Java** 
@@ -87,7 +87,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2025 01:01:37 UTC
+ Last Updated on 19/06/2025 01:01:44 UTC
 <!--END_SECTION:waka-->
 
 
