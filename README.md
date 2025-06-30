@@ -57,22 +57,23 @@
 
 ```text
 💬 编程语言: 
-Go                       26 hrs 48 mins      ███████████████████████░░   91.48 % 
-Java                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-XML                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Go                       26 hrs 48 mins      ██████████████████████░░░   86.11 % 
+Java                     3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+XML                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 编辑器: 
-GoLand                   27 hrs 25 mins      ███████████████████████░░   93.57 % 
-IntelliJ IDEA            1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+GoLand                   27 hrs 25 mins      ██████████████████████░░░   88.07 % 
+IntelliJ IDEA            3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 项目: 
-data-consistency-checker 23 hrs 19 mins      ████████████████████░░░░░   79.55 % 
-ML_Platform              1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-mchannel-gateway         1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-test_script              1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-payment_order_refund_svr 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+data-consistency-checker 23 hrs 19 mins      ███████████████████░░░░░░   74.88 % 
+ML_Platform              3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+mchannel-gateway         1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+test_script              1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+payment_order_refund_svr 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 **我最常使用 Java** 
@@ -87,7 +88,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2025 01:09:12 UTC
+ Last Updated on 30/06/2025 01:06:10 UTC
 <!--END_SECTION:waka-->
 
 
