@@ -28,6 +28,8 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
 **我是早起的 🐤** 
@@ -55,23 +57,23 @@
 
 ```text
 💬 编程语言: 
-Go                       21 hrs 51 mins      ███████████████████████░░   91.21 % 
-Java                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-go.mod                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Go                       16 hrs 13 mins      ██████████████████████░░░   87.47 % 
+Java                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+protobuf                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+go.mod                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 编辑器: 
-GoLand                   22 hrs 8 mins       ███████████████████████░░   92.37 % 
-IntelliJ IDEA            1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+GoLand                   16 hrs 43 mins      ███████████████████████░░   90.15 % 
+IntelliJ IDEA            1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 项目: 
-data-consistency-checker 15 hrs 20 mins      ████████████████░░░░░░░░░   64.03 % 
-test_script              3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-ML_Platform              1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-mchannel-gateway         1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-payment_order_refund_svr 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+data-consistency-checker 9 hrs 53 mins       █████████████░░░░░░░░░░░░   53.33 % 
+test_script              3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+ML_Platform              1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+mchannel-gateway         1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+payment_order_refund_svr 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +88,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2025 01:02:33 UTC
+ Last Updated on 03/07/2025 01:02:13 UTC
 <!--END_SECTION:waka-->
 
 
