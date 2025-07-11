@@ -28,7 +28,7 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -57,21 +57,21 @@
 
 ```text
 💬 编程语言: 
-Go                       35 hrs 42 mins      ███████████████████████░░   91.09 % 
-YAML                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Protocol Buffer          25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-go.mod                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Go                       31 hrs 59 mins      ██████████████████████░░░   89.34 % 
+YAML                     3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Protocol Buffer          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 编辑器: 
-GoLand                   39 hrs 11 mins      █████████████████████████   100.00 % 
+GoLand                   35 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-aggregation-svr          25 hrs 42 mins      ████████████████░░░░░░░░░   65.57 % 
-data-consistency-checker 10 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-mchannel-gateway         1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-gateway                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-refund_order_query_svr   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+aggregation-svr          23 hrs 19 mins      ████████████████░░░░░░░░░   65.14 % 
+data-consistency-checker 9 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+mchannel-gateway         1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+refund_order_query_svr   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+gateway                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2025 01:03:31 UTC
+ Last Updated on 11/07/2025 01:04:11 UTC
 <!--END_SECTION:waka-->
 
 
