@@ -28,7 +28,7 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-105-blue)
 
@@ -57,21 +57,21 @@
 
 ```text
 💬 编程语言: 
-Go                       18 hrs 4 mins       ██████████████████████░░░   89.95 % 
-YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-HTTP Request             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-protobuf                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Go                       18 hrs 53 mins      ████████████████████████░   94.89 % 
+HTTP Request             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+protobuf                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 编辑器: 
-GoLand                   20 hrs 5 mins       █████████████████████████   100.00 % 
+GoLand                   19 hrs 54 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-aggregation-svr          7 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.55 % 
-generation               3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-data-consistency-checker 3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-test_script              2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-agent                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+data-consistency-checker 5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+aggregation-svr          5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+generation               4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+test_script              1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+agent                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2025 17:27:59 UTC
+ Last Updated on 29/07/2025 19:24:19 UTC
 <!--END_SECTION:waka-->
 
 
