@@ -28,6 +28,8 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2010%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-106-blue)
 
 **我是早起的 🐤** 
@@ -55,21 +57,21 @@
 
 ```text
 💬 编程语言: 
-Go                       18 hrs 53 mins      ████████████████████████░   94.89 % 
-HTTP Request             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-protobuf                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Go                       19 hrs 16 mins      ████████████████████████░   94.26 % 
+HTTP Request             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+protobuf                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 编辑器: 
-GoLand                   19 hrs 54 mins      █████████████████████████   100.00 % 
+GoLand                   20 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-data-consistency-checker 5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-aggregation-svr          5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-generation               4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-test_script              1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-agent                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+generation               6 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+data-consistency-checker 5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+aggregation-svr          5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+test_script              1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+training-svr             1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 ```
 
 **我最常使用 Java** 
@@ -84,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 16:32:09 UTC
+ Last Updated on 30/07/2025 17:26:00 UTC
 <!--END_SECTION:waka-->
 
 
