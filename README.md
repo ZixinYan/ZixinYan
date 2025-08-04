@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Learning-SpringCloud%20|%20Nginx-brightgreen?style=flat-square&logo=spring" />
   <img src="https://img.shields.io/badge/Working%20On-mlplatform-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Favorite%20Language-Java%20|%20Python-orange?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/Favorite%20Language-Java%20|%20Go-orange?style=flat-square&logo=java" />
 </p>
 
 
