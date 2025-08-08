@@ -28,51 +28,9 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-6-blue)
-
-**我是早起的 🐤** 
-
-```text
-🌞 早晨                     97 commits          ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-🌆 白天                     134 commits         █████████░░░░░░░░░░░░░░░░   36.41 % 
-🌃 傍晚                     99 commits          ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-🌙 晚上                     38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-```
-📅 **我最有效率是在 星期五** 
-
-```text
-星期一                      48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-星期二                      62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-星期三                      41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-星期四                      17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-星期五                      78 commits          █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-星期六                      76 commits          █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-星期日                      46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
-
-
-📊 **本周消耗时间** 
-
-```text
-💬 编程语言: 
-Go                       20 hrs 14 mins      ███████████████████████░░   90.46 % 
-YAML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Protocol Buffer          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-protobuf                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-
-🔥 编辑器: 
-GoLand                   22 hrs 22 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 项目: 
-data-pipeline-hub        6 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.92 % 
-aggregation-svr          5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-channel-fee-output       4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-generation               2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-bill-task-controller-v2  2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-```
 
 **我最常使用 Java** 
 
@@ -86,7 +44,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2025 16:31:04 UTC
+ Last Updated on 08/08/2025 17:20:11 UTC
 <!--END_SECTION:waka-->
 
 
