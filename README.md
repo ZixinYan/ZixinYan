@@ -28,7 +28,7 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-8-blue)
 
@@ -57,22 +57,22 @@
 
 ```text
 💬 编程语言: 
-Go                       18 hrs 47 mins      ████████████████████░░░░░   81.97 % 
-YAML                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Java                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-protobuf                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-textmate                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Go                       17 hrs 10 mins      ████████████████████░░░░░   79.70 % 
+YAML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Java                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+protobuf                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+textmate                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 编辑器: 
-GoLand                   21 hrs 40 mins      ████████████████████████░   94.59 % 
-IntelliJ IDEA            1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+GoLand                   19 hrs 54 mins      ███████████████████████░░   92.35 % 
+IntelliJ IDEA            1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 🐱‍💻 项目: 
-channel-fee-output       6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-data-pipeline-hub        6 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-aggregation-svr          2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-bill-task-controller-v2  2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-generation               2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+channel-fee-output       6 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+data-pipeline-hub        5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+aggregation-svr          2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+bill-task-controller-v2  2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+generation               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 ```
 
 **我最常使用 Java** 
@@ -87,7 +87,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2025 16:32:09 UTC
+ Last Updated on 12/08/2025 17:23:10 UTC
 <!--END_SECTION:waka-->
 
 
