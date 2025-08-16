@@ -28,7 +28,7 @@
 ## 📅 过去一周的编码时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-7-blue)
 
@@ -57,22 +57,22 @@
 
 ```text
 💬 编程语言: 
-Go                       14 hrs 28 mins      ████████████████████░░░░░   80.14 % 
-Java                     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Go                       14 hrs 30 mins      ████████████████████░░░░░   80.18 % 
+Java                     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 textmate                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 编辑器: 
-GoLand                   15 hrs 5 mins       █████████████████████░░░░   83.62 % 
-IntelliJ IDEA            2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+GoLand                   15 hrs 8 mins       █████████████████████░░░░   83.66 % 
+IntelliJ IDEA            2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
 
 🐱‍💻 项目: 
-data-pipeline-hub        4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-ML_Platform              2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-bill-task-controller-v2  2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-channel-fee-output       2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-data-consistency-checker 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+data-pipeline-hub        4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+ML_Platform              2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+bill-task-controller-v2  2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+channel-fee-output       2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+data-consistency-checker 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 ```
 
 **我最常使用 Java** 
@@ -87,7 +87,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2025 16:28:05 UTC
+ Last Updated on 16/08/2025 17:19:03 UTC
 <!--END_SECTION:waka-->
 
 
