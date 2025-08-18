@@ -27,52 +27,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-12-blue)
-
-**我是早起的 🐤** 
-
-```text
-🌞 早晨                     96 commits          ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-🌆 白天                     134 commits         █████████░░░░░░░░░░░░░░░░   36.02 % 
-🌃 傍晚                     102 commits         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-🌙 晚上                     40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-```
-📅 **我最有效率是在 星期五** 
-
-```text
-星期一                      52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-星期二                      64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-星期三                      39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-星期四                      16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-星期五                      78 commits          █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-星期六                      75 commits          █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-星期日                      48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-```
-
-
-📊 **本周消耗时间** 
-
-```text
-💬 编程语言: 
-Go                       14 hrs 30 mins      ████████████████████░░░░░   80.18 % 
-Java                     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-textmate                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-
-🔥 编辑器: 
-GoLand                   15 hrs 8 mins       █████████████████████░░░░   83.66 % 
-IntelliJ IDEA            2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-
-🐱‍💻 项目: 
-data-pipeline-hub        4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-ML_Platform              2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-bill-task-controller-v2  2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-channel-fee-output       2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-data-consistency-checker 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-```
 
 **我最常使用 Java** 
 
@@ -86,7 +43,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2025 16:32:36 UTC
+ Last Updated on 18/08/2025 17:24:16 UTC
 <!--END_SECTION:waka-->
 
 
