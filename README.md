@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-12-blue)
 
@@ -56,22 +56,22 @@
 
 ```text
 💬 编程语言: 
-Go                       8 hrs 45 mins       ██████████████████████░░░   86.92 % 
-Shell Script             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Go                       8 hrs 6 mins        ██████████████████████░░░   87.86 % 
+Shell Script             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 编辑器: 
-GoLand                   9 hrs 45 mins       ████████████████████████░   97.00 % 
-IntelliJ IDEA            18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+GoLand                   9 hrs 12 mins       █████████████████████████   99.75 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 项目: 
-data-consistency-checker 2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-test_script              1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-pay-gateway              1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-bill-task-controller-v2  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-channel-fee-output       38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+test_script              1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+pay-gateway              1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+generation               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+data-consistency-checker 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+bill-task-controller-v2  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2025 16:29:25 UTC
+ Last Updated on 21/08/2025 17:21:15 UTC
 <!--END_SECTION:waka-->
 
 
