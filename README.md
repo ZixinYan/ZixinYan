@@ -56,22 +56,22 @@
 
 ```text
 💬 编程语言: 
-Go                       9 hrs 49 mins       ██████████████████████░░░   89.84 % 
-Shell Script             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Go                       9 hrs 46 mins       ██████████████████████░░░   89.79 % 
+Shell Script             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 编辑器: 
-GoLand                   10 hrs 54 mins      █████████████████████████   99.79 % 
+GoLand                   10 hrs 51 mins      █████████████████████████   99.79 % 
 IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 项目: 
-pay-gateway              2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-test_script              1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-generation               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-data-consistency-checker 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-bill-task-controller-v2  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+pay-gateway              2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+test_script              1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+generation               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+data-consistency-checker 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+bill-task-controller-v2  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2025 16:25:59 UTC
+ Last Updated on 23/08/2025 17:18:06 UTC
 <!--END_SECTION:waka-->
 
 
