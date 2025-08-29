@@ -56,22 +56,22 @@
 
 ```text
 💬 编程语言: 
-Go                       3 hrs 44 mins       ██████████████████████░░░   89.44 % 
-Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-go.mod                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Go                       1 hr 45 mins        ████████████████████░░░░░   80.00 % 
+Java                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+go.mod                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 编辑器: 
-GoLand                   3 hrs 57 mins       ████████████████████████░   94.40 % 
-IntelliJ IDEA            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+GoLand                   1 hr 58 mins        ██████████████████████░░░   89.34 % 
+IntelliJ IDEA            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 
 🐱‍💻 项目: 
-generation               1 hr 49 mins        ███████████░░░░░░░░░░░░░░   43.54 % 
-pay-gateway              1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   31.32 % 
-mchannel-gateway         22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-refund_notification_recei9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-refund_order_status_updat9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+generation               1 hr 16 mins        ██████████████░░░░░░░░░░░   57.99 % 
+mchannel-gateway         22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+refund_notification_recei9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+refund_order_status_updat9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Biancheng                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 16:28:36 UTC
+ Last Updated on 29/08/2025 17:19:19 UTC
 <!--END_SECTION:waka-->
 
 
