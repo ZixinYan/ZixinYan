@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-11-blue)
 
@@ -56,22 +56,22 @@
 
 ```text
 💬 编程语言: 
-Go                       1 hr 45 mins        ████████████████████░░░░░   80.00 % 
-Java                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-go.mod                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Go                       1 hr 45 mins        ████████████░░░░░░░░░░░░░   48.53 % 
+Java                     1 hr 39 mins        ███████████░░░░░░░░░░░░░░   45.80 % 
+go.mod                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 编辑器: 
-GoLand                   1 hr 58 mins        ██████████████████████░░░   89.34 % 
-IntelliJ IDEA            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+GoLand                   1 hr 58 mins        ██████████████░░░░░░░░░░░   54.20 % 
+IntelliJ IDEA            1 hr 39 mins        ███████████░░░░░░░░░░░░░░   45.80 % 
 
 🐱‍💻 项目: 
-generation               1 hr 16 mins        ██████████████░░░░░░░░░░░   57.99 % 
-mchannel-gateway         22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-refund_notification_recei9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-refund_order_status_updat9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Biancheng                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Biancheng                1 hr 39 mins        ███████████░░░░░░░░░░░░░░   45.71 % 
+generation               1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   35.18 % 
+mchannel-gateway         22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+refund_notification_recei9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+refund_order_status_updat9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2025 16:25:52 UTC
+ Last Updated on 31/08/2025 17:18:01 UTC
 <!--END_SECTION:waka-->
 
 
