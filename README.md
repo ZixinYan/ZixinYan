@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-4-blue)
 
@@ -56,18 +56,18 @@
 
 ```text
 💬 编程语言: 
-Java                     1 hr 47 mins        █████████████████████████   98.59 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Java                     2 hrs 52 mins       █████████████████████████   99.03 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            1 hr 49 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Biancheng                1 hr 40 mins        ███████████████████████░░   91.87 % 
-ML_Platform              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Biancheng                2 hrs 44 mins       ████████████████████████░   94.90 % 
+ML_Platform              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
 
 **我最常使用 Java** 
@@ -82,7 +82,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2025 16:24:42 UTC
+ Last Updated on 06/09/2025 17:17:16 UTC
 <!--END_SECTION:waka-->
 
 
