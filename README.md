@@ -56,18 +56,14 @@
 
 ```text
 💬 编程语言: 
-Java                     1 hr 19 mins        ████████████████████████░   97.95 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Java                     1 hr 4 mins         █████████████████████████   99.78 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            1 hr 21 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Biancheng                1 hr 12 mins        ██████████████████████░░░   89.11 % 
-ML_Platform              8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Biancheng                1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Java** 
@@ -82,7 +78,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2025 16:28:11 UTC
+ Last Updated on 11/09/2025 17:19:15 UTC
 <!--END_SECTION:waka-->
 
 
