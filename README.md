@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -56,14 +56,14 @@
 
 ```text
 💬 编程语言: 
-Java                     1 hr 53 mins        █████████████████████████   99.71 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Java                     2 hrs 3 mins        █████████████████████████   99.73 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            1 hr 53 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Biancheng                1 hr 53 mins        █████████████████████████   100.00 % 
+Biancheng                2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Java** 
@@ -78,7 +78,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2025 16:29:02 UTC
+ Last Updated on 18/09/2025 17:19:26 UTC
 <!--END_SECTION:waka-->
 
 
