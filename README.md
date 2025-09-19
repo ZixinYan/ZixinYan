@@ -27,44 +27,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
-
-**我是早起的 🐤** 
-
-```text
-🌞 早晨                     96 commits          ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-🌆 白天                     134 commits         █████████░░░░░░░░░░░░░░░░   36.02 % 
-🌃 傍晚                     102 commits         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-🌙 晚上                     40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-```
-📅 **我最有效率是在 星期五** 
-
-```text
-星期一                      52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-星期二                      64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-星期三                      39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-星期四                      16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-星期五                      78 commits          █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-星期六                      75 commits          █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-星期日                      48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-```
-
-
-📊 **本周消耗时间** 
-
-```text
-💬 编程语言: 
-Java                     2 hrs 3 mins        █████████████████████████   99.73 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-
-🔥 编辑器: 
-IntelliJ IDEA            2 hrs 3 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 项目: 
-Biancheng                2 hrs 3 mins        █████████████████████████   100.00 % 
-```
 
 **我最常使用 Java** 
 
@@ -78,7 +43,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 16:27:30 UTC
+ Last Updated on 19/09/2025 17:18:56 UTC
 <!--END_SECTION:waka-->
 
 
