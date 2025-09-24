@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -56,18 +56,20 @@
 
 ```text
 💬 编程语言: 
-Java                     38 mins             █████████████████████████   99.41 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     1 hr 44 mins        █████████████████████░░░░   85.01 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Groovy                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            38 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-ML_Platform              26 mins             ██████████████████░░░░░░░   70.45 % 
-Biancheng                11 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+data-transforemer        1 hr                ████████████░░░░░░░░░░░░░   49.15 % 
+Biancheng                27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+ML_Platform              26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+data-transformer         8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 ```
 
 **我最常使用 Java** 
@@ -82,7 +84,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2025 16:30:03 UTC
+ Last Updated on 24/09/2025 17:20:37 UTC
 <!--END_SECTION:waka-->
 
 
