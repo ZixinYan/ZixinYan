@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-2-blue)
 
@@ -65,19 +65,19 @@
 本周没有记录到任何活动
 ```
 
-**我最常使用 Java** 
+**我最常使用 Python** 
 
 ```text
-Java                     5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
-Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Vue                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
+Java                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
+Vue                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 14/10/2025 11:19:11 UTC
+ Last Updated on 14/10/2025 12:51:50 UTC
 <!--END_SECTION:waka-->
 
 
