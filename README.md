@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-2-blue)
 
@@ -56,17 +56,17 @@
 
 ```text
 💬 编程语言: 
-Python                   53 mins             ██████████████████░░░░░░░   72.70 % 
-Markdown                 18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   1 hr 37 mins        █████████████████████░░░░   83.00 % 
+Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 编辑器: 
-PyCharm                  1 hr 13 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 57 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Biancheng                42 mins             ███████████████░░░░░░░░░░   58.19 % 
-GridSim                  30 mins             ██████████░░░░░░░░░░░░░░░   41.29 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Biancheng                1 hr 27 mins        ██████████████████░░░░░░░   73.96 % 
+GridSim                  30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 **我最常使用 Python** 
@@ -81,7 +81,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2025 16:28:52 UTC
+ Last Updated on 17/10/2025 17:19:41 UTC
 <!--END_SECTION:waka-->
 
 
