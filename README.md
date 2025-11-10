@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -56,19 +56,19 @@
 
 ```text
 💬 编程语言: 
-Python                   1 hr 17 mins        ████████████████████████░   97.66 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Python                   2 hrs 1 min         █████████████████████████   98.44 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 编辑器: 
-PyCharm                  1 hr 19 mins        █████████████████████████   100.00 % 
+PyCharm                  2 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-TRFE-Net-for-thyroid-nodu1 hr 9 mins         ██████████████████████░░░   88.39 % 
-LightEditProject         8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-thyroid-test             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+TRFE-Net-for-thyroid-nodu1 hr 48 mins        ██████████████████████░░░   88.20 % 
+LightEditProject         8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+thyroid-test             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 ```
 
 **我最常使用 Python** 
@@ -83,7 +83,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2025 16:33:11 UTC
+ Last Updated on 10/11/2025 17:22:47 UTC
 <!--END_SECTION:waka-->
 
 
