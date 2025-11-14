@@ -56,19 +56,20 @@
 
 ```text
 💬 编程语言: 
-Python                   2 hrs 1 min         █████████████████████████   98.44 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   2 hrs 9 mins        ████████████████████████░   94.60 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 编辑器: 
-PyCharm                  2 hrs 2 mins        █████████████████████████   100.00 % 
+PyCharm                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-TRFE-Net-for-thyroid-nodu1 hr 48 mins        ██████████████████████░░░   88.20 % 
-LightEditProject         8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-thyroid-test             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+TRFE-Net-for-thyroid-nodu1 hr 51 mins        ████████████████████░░░░░   81.06 % 
+so-vits-svc              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+LightEditProject         8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+thyroid-test             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 
 **我最常使用 Python** 
@@ -83,7 +84,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2025 15:22:38 UTC
+ Last Updated on 14/11/2025 16:31:59 UTC
 <!--END_SECTION:waka-->
 
 
