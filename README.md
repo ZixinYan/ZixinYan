@@ -27,6 +27,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%209%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
 **我是早起的 🐤** 
@@ -54,18 +56,19 @@
 
 ```text
 💬 编程语言: 
-Python                   1 hr 2 mins         █████████████████░░░░░░░░   69.94 % 
-Text                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   2 hrs 12 mins       █████████████████████░░░░   82.36 % 
+Text                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 编辑器: 
-PyCharm                  1 hr 29 mins        █████████████████████████   100.00 % 
+PyCharm                  2 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-so-vits-svc              42 mins             ████████████░░░░░░░░░░░░░   47.64 % 
-TRFE-Net-for-thyroid-nodu41 mins             ████████████░░░░░░░░░░░░░   46.40 % 
-thyroid-test             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+so-vits-svc              1 hr 54 mins        ██████████████████░░░░░░░   71.00 % 
+TRFE-Net-for-thyroid-nodu41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+thyroid-test             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 
 **我最常使用 Python** 
@@ -80,7 +83,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 16:27:40 UTC
+ Last Updated on 16/11/2025 17:19:32 UTC
 <!--END_SECTION:waka-->
 
 
