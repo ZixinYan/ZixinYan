@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -56,19 +56,22 @@
 
 ```text
 💬 编程语言: 
-Python                   1 hr 40 mins        ████████████████████░░░░░   78.08 % 
-Text                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   1 hr 40 mins        ███████████░░░░░░░░░░░░░░   44.21 % 
+Java                     1 hr 38 mins        ███████████░░░░░░░░░░░░░░   42.97 % 
+Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 编辑器: 
-PyCharm                  2 hrs 9 mins        █████████████████████████   100.00 % 
+PyCharm                  2 hrs 9 mins        ██████████████░░░░░░░░░░░   56.62 % 
+IntelliJ IDEA            1 hr 38 mins        ███████████░░░░░░░░░░░░░░   43.38 % 
 
 🐱‍💻 项目: 
-so-vits-svc              1 hr 56 mins        ███████████████████████░░   90.52 % 
-TRFE-Net-for-thyroid-nodu12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-thyroid-test             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+so-vits-svc              1 hr 56 mins        █████████████░░░░░░░░░░░░   51.25 % 
+StreamLearning           1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   41.39 % 
+TRFE-Net-for-thyroid-nodu12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+SpringAll                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+spring-framework         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **我最常使用 Python** 
@@ -83,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2025 16:36:22 UTC
+ Last Updated on 19/11/2025 17:22:38 UTC
 <!--END_SECTION:waka-->
 
 
