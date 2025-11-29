@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -56,13 +56,20 @@
 
 ```text
 💬 编程语言: 
-本周没有记录到任何活动
+XML                      1 hr 58 mins        █████████████░░░░░░░░░░░░   51.89 % 
+Java                     1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+protobuf                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Protocol Buffer          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+IntelliJ IDEA            3 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+blog-platform            2 hrs 27 mins       ████████████████░░░░░░░░░   64.40 % 
+ML_Platform              44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+My-Blog                  36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+spring-framework         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 **我最常使用 Python** 
@@ -77,7 +84,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2025 16:29:29 UTC
+ Last Updated on 29/11/2025 17:20:31 UTC
 <!--END_SECTION:waka-->
 
 
