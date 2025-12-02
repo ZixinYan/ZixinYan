@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -56,22 +56,22 @@
 
 ```text
 💬 编程语言: 
-Java                     5 hrs 41 mins       ███████████████░░░░░░░░░░   59.26 % 
-XML                      2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
-protobuf                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Protocol Buffer          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Java                     9 hrs 14 mins       █████████████████░░░░░░░░   68.77 % 
+XML                      2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+protobuf                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Protocol Buffer          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            9 hrs 35 mins       █████████████████████████   99.86 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+IntelliJ IDEA            13 hrs 25 mins      █████████████████████████   99.90 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 项目: 
-blog-platform            4 hrs 57 mins       █████████████░░░░░░░░░░░░   51.58 % 
-My-Blog                  1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Tai-e-assignments        1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-ML_Platform              56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-VulnHuntLab              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+blog-platform            8 hrs 29 mins       ████████████████░░░░░░░░░   63.24 % 
+My-Blog                  1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+ML_Platform              1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Tai-e-assignments        1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+VulnHuntLab              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 
 **我最常使用 Python** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2025 17:27:04 UTC
+ Last Updated on 02/12/2025 18:39:48 UTC
 <!--END_SECTION:waka-->
 
 
