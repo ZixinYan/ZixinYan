@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -56,13 +56,17 @@
 
 ```text
 💬 编程语言: 
-本周没有记录到任何活动
+Java                     2 hrs 55 mins       ████████████████████░░░░░   80.93 % 
+Properties               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Java Properties          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+IntelliJ IDEA            3 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+chronic-care-ai-platform 3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Java** 
@@ -78,7 +82,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2026 16:49:25 UTC
+ Last Updated on 20/02/2026 17:41:46 UTC
 <!--END_SECTION:waka-->
 
 
