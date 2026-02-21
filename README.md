@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -56,17 +56,17 @@
 
 ```text
 💬 编程语言: 
-Java                     2 hrs 55 mins       ████████████████████░░░░░   80.93 % 
-Properties               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Java Properties          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Java                     6 hrs 35 mins       █████████████████████░░░░   85.54 % 
+XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Properties               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Java Properties          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            3 hrs 36 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            7 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 3 hrs 36 mins       █████████████████████████   100.00 % 
+chronic-care-ai-platform 7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Java** 
@@ -82,7 +82,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2026 16:36:08 UTC
+ Last Updated on 21/02/2026 17:29:42 UTC
 <!--END_SECTION:waka-->
 
 
