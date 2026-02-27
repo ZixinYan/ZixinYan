@@ -27,47 +27,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
-
-**我是早鸟 🐤** 
-
-```text
-🌞 早晨                     96 commits          █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-🌆 白天                     143 commits         ████████░░░░░░░░░░░░░░░░░   32.06 % 
-🌃 傍晚                     167 commits         █████████░░░░░░░░░░░░░░░░   37.44 % 
-🌙 晚上                     40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-```
-📅 **星期六 时的我最有干劲** 
-
-```text
-星期一                      60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-星期二                      66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-星期三                      52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-星期四                      16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-星期五                      96 commits          █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-星期六                      97 commits          █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-星期日                      59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-```
-
-
-📊 **本周消耗时间** 
-
-```text
-💬 编程语言: 
-Java                     18 hrs 33 mins      ██████████████████████░░░   88.37 % 
-XML                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Properties               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-SQL                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Java Properties          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-
-🔥 编辑器: 
-IntelliJ IDEA            20 hrs 59 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 项目: 
-chronic-care-ai-platform 20 hrs 59 mins      █████████████████████████   100.00 % 
-```
 
 **我最常使用 Java** 
 
@@ -82,7 +44,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2026 16:47:56 UTC
+ Last Updated on 27/02/2026 17:40:08 UTC
 <!--END_SECTION:waka-->
 
 
