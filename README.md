@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -56,17 +56,21 @@
 
 ```text
 💬 编程语言: 
-Java                     17 hrs 58 mins      ███████████████████████░░   92.17 % 
-XML                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Properties               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Java Properties          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Java                     17 hrs 46 mins      ████████████████████░░░░░   78.49 % 
+Python                   3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+XML                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Properties               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+CSV                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            19 hrs 29 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            18 hrs 56 mins      █████████████████████░░░░   83.58 % 
+PyCharm                  3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 19 hrs 29 mins      █████████████████████████   100.00 % 
+chronic-care-ai-platform 22 hrs 28 mins      █████████████████████████   99.22 % 
+blood-glucose-prediction 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+glucose-ai-prediction    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **我最常使用 Java** 
@@ -82,7 +86,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2026 16:35:25 UTC
+ Last Updated on 01/03/2026 17:27:33 UTC
 <!--END_SECTION:waka-->
 
 
