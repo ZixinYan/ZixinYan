@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -56,20 +56,21 @@
 
 ```text
 💬 编程语言: 
-Java                     17 hrs 46 mins      ████████████████████░░░░░   78.49 % 
-Python                   3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-XML                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Properties               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-CSV                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Java                     14 hrs 45 mins      ██████████████████░░░░░░░   72.68 % 
+Python                   3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+XML                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+CSV                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Properties               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            18 hrs 56 mins      █████████████████████░░░░   83.58 % 
-PyCharm                  3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+IntelliJ IDEA            15 hrs 54 mins      ████████████████████░░░░░   78.28 % 
+PyCharm                  4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 22 hrs 28 mins      █████████████████████████   99.22 % 
-blood-glucose-prediction 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+chronic-care-ai-platform 19 hrs 36 mins      ████████████████████████░   96.52 % 
+tmp                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+blood-glucose-prediction 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 glucose-ai-prediction    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
@@ -86,7 +87,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2026 16:56:26 UTC
+ Last Updated on 02/03/2026 17:52:16 UTC
 <!--END_SECTION:waka-->
 
 
