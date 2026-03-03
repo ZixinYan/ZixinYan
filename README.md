@@ -56,21 +56,21 @@
 
 ```text
 💬 编程语言: 
-Java                     14 hrs 45 mins      ██████████████████░░░░░░░   72.68 % 
-Python                   3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-XML                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-CSV                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Properties               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Java                     11 hrs 53 mins      ██████████████████░░░░░░░   70.01 % 
+Python                   3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+XML                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+CSV                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            15 hrs 54 mins      ████████████████████░░░░░   78.28 % 
-PyCharm                  4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+IntelliJ IDEA            12 hrs 33 mins      ██████████████████░░░░░░░   74.00 % 
+PyCharm                  4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 19 hrs 36 mins      ████████████████████████░   96.52 % 
-tmp                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-blood-glucose-prediction 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+chronic-care-ai-platform 16 hrs 16 mins      ████████████████████████░   95.84 % 
+tmp                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+blood-glucose-prediction 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 glucose-ai-prediction    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
@@ -87,7 +87,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2026 16:56:18 UTC
+ Last Updated on 03/03/2026 17:50:12 UTC
 <!--END_SECTION:waka-->
 
 
