@@ -56,22 +56,22 @@
 
 ```text
 💬 编程语言: 
-Java                     5 hrs 55 mins       ██████████████░░░░░░░░░░░   56.24 % 
-Python                   3 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
-CSV                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Python                   3 hrs 44 mins       █████████████░░░░░░░░░░░░   53.87 % 
+Java                     2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.40 % 
+CSV                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            6 hrs 7 mins        ███████████████░░░░░░░░░░   58.14 % 
-PyCharm                  4 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
+PyCharm                  4 hrs 24 mins       ████████████████░░░░░░░░░   63.59 % 
+IntelliJ IDEA            2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 9 hrs 50 mins       ███████████████████████░░   93.30 % 
-tmp                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-blood-glucose-prediction 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-glucose-ai-prediction    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+chronic-care-ai-platform 6 hrs 14 mins       ██████████████████████░░░   89.82 % 
+tmp                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+blood-glucose-prediction 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+glucose-ai-prediction    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 **我最常使用 Java** 
@@ -87,7 +87,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2026 16:50:57 UTC
+ Last Updated on 06/03/2026 17:39:55 UTC
 <!--END_SECTION:waka-->
 
 
