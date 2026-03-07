@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -56,22 +56,22 @@
 
 ```text
 💬 编程语言: 
-Python                   3 hrs 44 mins       █████████████░░░░░░░░░░░░   53.87 % 
-Java                     2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.40 % 
-CSV                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Python                   3 hrs 59 mins       █████████████████████░░░░   84.17 % 
+CSV                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 编辑器: 
-PyCharm                  4 hrs 24 mins       ████████████████░░░░░░░░░   63.59 % 
-IntelliJ IDEA            2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
+PyCharm                  4 hrs 40 mins       █████████████████████████   98.39 % 
+IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 6 hrs 14 mins       ██████████████████████░░░   89.82 % 
-tmp                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-blood-glucose-prediction 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-glucose-ai-prediction    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+chronic-care-ai-platform 3 hrs 42 mins       ████████████████████░░░░░   78.22 % 
+tmp                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+PackageCaptureTool       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+blood-glucose-prediction 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+ML_Platform              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 **我最常使用 Java** 
@@ -87,7 +87,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2026 16:34:48 UTC
+ Last Updated on 07/03/2026 17:26:52 UTC
 <!--END_SECTION:waka-->
 
 
