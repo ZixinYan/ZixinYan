@@ -5,7 +5,7 @@
 <h2 align="center">🚀 《关于我熬夜写码转生异世界还是码农这件事》 🚀</h2> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=2000&pause=500&color=F5A623&center=true&vCenter=true&width=700&lines=球球你们不要再当码奸了 苦逼牛马还不想失业" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=2000&pause=500&color=F5A623&center=true&vCenter=true&width=700&lines=球球你们不要再当码奸了，苦逼牛马还不想失业" />
 </p>
 
 
