@@ -2,10 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&section=header&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
-<h2 align="center">🚀 《关于我熬夜写码猝死转生异世界还是码农这件事》 🚀</h2> 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=2000&pause=500&color=F5A623&center=true&vCenter=true&width=700&lines=在地球online已经20多年了，啥时候转生异世界TT" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+CJK&size=24&duration=2000&pause=500&color=F5A623&center=true&vCenter=true&width=700&lines=在地球online已经20多年了，什么时候轮到我转生异世界" />
 </p>
 
 
