@@ -25,7 +25,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-4-blue?style=flat)
 
@@ -54,17 +54,22 @@
 
 ```text
 💬 编程语言: 
-Java                     10 mins             ████████████████████████░   94.76 % 
-CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 32 mins             ██████████░░░░░░░░░░░░░░░   41.57 % 
+Java                     24 mins             ████████░░░░░░░░░░░░░░░░░   31.91 % 
+YAML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+XML                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            11 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 13 mins        ████████████████████████░   94.54 % 
+WebStorm                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 11 mins             █████████████████████████   100.00 % 
+autoDoc                  26 mins             ████████░░░░░░░░░░░░░░░░░   33.74 % 
+chronic-care-ai-platform 26 mins             ████████░░░░░░░░░░░░░░░░░   33.42 % 
+intelligent-analysis-plat19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+persona-space            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+deepseeker               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 
 **我最常使用 Java** 
@@ -80,7 +85,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/05/2026 16:18:25 UTC
+ Last Updated on 08/05/2026 18:13:12 UTC
 <!--END_SECTION:waka-->
 
 
