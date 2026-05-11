@@ -25,7 +25,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-6-blue?style=flat)
 
@@ -54,23 +54,23 @@
 
 ```text
 💬 编程语言: 
-Java                     7 hrs               ████████████░░░░░░░░░░░░░   47.79 % 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-XML                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Java                     8 hrs 17 mins       ████████████░░░░░░░░░░░░░   49.77 % 
+Other                    1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+XML                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 编辑器: 
-Unknown Editor           8 hrs 2 mins        ██████████████░░░░░░░░░░░   54.78 % 
-IntelliJ IDEA            6 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.91 % 
-WebStorm                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Unknown Editor           9 hrs 10 mins       ██████████████░░░░░░░░░░░   55.09 % 
+IntelliJ IDEA            7 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.50 % 
+WebStorm                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🐱‍💻 项目: 
-intelligent-analysis-plat7 hrs 39 mins       █████████████░░░░░░░░░░░░   52.17 % 
-chronic-care-ai-platform 5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.08 % 
-deepseeker               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-autoDoc                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-chronic-care-ai-platform-7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+intelligent-analysis-plat7 hrs 46 mins       ████████████░░░░░░░░░░░░░   46.73 % 
+chronic-care-ai-platform 6 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
+deepseeker               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+chronic-care-ai-platform-38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+autoDoc                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
 **我最常使用 Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2026 16:01:28 UTC
+ Last Updated on 11/05/2026 18:59:41 UTC
 <!--END_SECTION:waka-->
 
 
