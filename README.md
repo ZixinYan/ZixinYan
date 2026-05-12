@@ -25,53 +25,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-6-blue?style=flat)
-
-**我是夜猫 🦉** 
-
-```text
-🌞 早晨                     96 commits          █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-🌆 白天                     143 commits         ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-🌃 傍晚                     222 commits         ███████████░░░░░░░░░░░░░░   44.31 % 
-🌙 晚上                     40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-```
-📅 **星期六 时的我最有干劲** 
-
-```text
-星期一                      67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-星期二                      67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-星期三                      55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-星期四                      17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-星期五                      107 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-星期六                      111 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-星期日                      77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-```
-
-
-📊 **本周消耗时间** 
-
-```text
-💬 编程语言: 
-Java                     8 hrs 17 mins       ████████████░░░░░░░░░░░░░   49.77 % 
-Other                    1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-XML                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-
-🔥 编辑器: 
-Unknown Editor           9 hrs 10 mins       ██████████████░░░░░░░░░░░   55.09 % 
-IntelliJ IDEA            7 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.50 % 
-WebStorm                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-
-🐱‍💻 项目: 
-intelligent-analysis-plat7 hrs 46 mins       ████████████░░░░░░░░░░░░░   46.73 % 
-chronic-care-ai-platform 6 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
-deepseeker               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-chronic-care-ai-platform-38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-autoDoc                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-```
 
 **我最常使用 Java** 
 
@@ -86,7 +42,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2026 16:24:27 UTC
+ Last Updated on 12/05/2026 19:00:15 UTC
 <!--END_SECTION:waka-->
 
 
