@@ -25,7 +25,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
 
@@ -54,19 +54,19 @@
 
 ```text
 💬 编程语言: 
-Java                     4 hrs 48 mins       ███████████████░░░░░░░░░░   61.13 % 
-Text                     1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Java                     4 hrs 53 mins       █████████████████░░░░░░░░   67.93 % 
+Text                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            4 hrs 3 mins        █████████████░░░░░░░░░░░░   51.48 % 
-Claude Code              3 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.52 % 
+IntelliJ IDEA            4 hrs 44 mins       ████████████████░░░░░░░░░   65.72 % 
+Claude Code              2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.28 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 5 hrs 56 mins       ███████████████████░░░░░░   75.53 % 
-intelligent-analysis-plat1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+chronic-care-ai-platform 5 hrs 16 mins       ██████████████████░░░░░░░   73.07 % 
+intelligent-analysis-plat1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
 ```
 
 **我最常使用 Java** 
@@ -82,7 +82,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 17:57:20 UTC
+ Last Updated on 22/05/2026 20:01:07 UTC
 <!--END_SECTION:waka-->
 
 
