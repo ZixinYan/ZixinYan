@@ -25,6 +25,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2058%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
 
 **我是夜猫 🦉** 
@@ -52,19 +54,19 @@
 
 ```text
 💬 编程语言: 
-Java                     4 hrs 53 mins       █████████████████░░░░░░░░   67.93 % 
-Text                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Java                     3 hrs 56 mins       █████████████████░░░░░░░░   66.12 % 
+Text                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+SQL                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            4 hrs 44 mins       ████████████████░░░░░░░░░   65.72 % 
-Claude Code              2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.28 % 
+IntelliJ IDEA            3 hrs 43 mins       ████████████████░░░░░░░░░   62.55 % 
+Claude Code              2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.45 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 5 hrs 16 mins       ██████████████████░░░░░░░   73.07 % 
-intelligent-analysis-plat1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+chronic-care-ai-platform 4 hrs 22 mins       ██████████████████░░░░░░░   73.43 % 
+intelligent-analysis-plat1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
 ```
 
 **我最常使用 Java** 
@@ -80,7 +82,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 17:06:56 UTC
+ Last Updated on 23/05/2026 19:18:27 UTC
 <!--END_SECTION:waka-->
 
 
