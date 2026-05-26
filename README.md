@@ -54,21 +54,21 @@
 
 ```text
 💬 编程语言: 
-Java                     3 hrs 52 mins       █████████████████░░░░░░░░   66.12 % 
-Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-XML                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Java                     3 hrs 34 mins       ██████████████████░░░░░░░   70.63 % 
+Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+XML                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+GitIgnore file           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            4 hrs 17 mins       ██████████████████░░░░░░░   73.11 % 
-Claude Code              1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+IntelliJ IDEA            4 hrs 1 min         ████████████████████░░░░░   79.37 % 
+Claude Code              1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 5 hrs 12 mins       ██████████████████████░░░   88.77 % 
-intelligent-analysis-plat37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-chronic-care-ai-platform-2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+chronic-care-ai-platform 4 hrs 40 mins       ███████████████████████░░   92.18 % 
+intelligent-analysis-plat21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+chronic-care-ai-platform-2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 **我最常使用 Java** 
@@ -84,7 +84,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2026 16:46:08 UTC
+ Last Updated on 26/05/2026 19:22:47 UTC
 <!--END_SECTION:waka-->
 
 
