@@ -25,7 +25,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
@@ -54,20 +54,20 @@
 
 ```text
 💬 编程语言: 
-Java                     4 hrs 15 mins       ███████████████░░░░░░░░░░   58.97 % 
-Text                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-XML                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Java                     4 hrs 19 mins       ███████████████░░░░░░░░░░   60.26 % 
+XML                      51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Text                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            4 hrs 54 mins       █████████████████░░░░░░░░   67.84 % 
-Unknown Editor           2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.62 % 
+IntelliJ IDEA            4 hrs 50 mins       █████████████████░░░░░░░░   67.57 % 
+Unknown Editor           2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
 WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 5 hrs 39 mins       ████████████████████░░░░░   78.29 % 
-intelligent-analysis-plat1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+chronic-care-ai-platform 4 hrs 6 mins        ██████████████░░░░░░░░░░░   57.27 % 
+intelligent-analysis-plat3 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.19 % 
 chronic-care-ai-platform-2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
@@ -84,7 +84,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 16:46:16 UTC
+ Last Updated on 29/05/2026 19:34:02 UTC
 <!--END_SECTION:waka-->
 
 
