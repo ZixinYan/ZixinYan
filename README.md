@@ -54,20 +54,20 @@
 
 ```text
 💬 编程语言: 
-Java                     4 hrs 19 mins       ███████████████░░░░░░░░░░   60.26 % 
-XML                      51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Text                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Java                     4 hrs 17 mins       ███████████████░░░░░░░░░░   60.08 % 
+XML                      51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Text                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            4 hrs 50 mins       █████████████████░░░░░░░░   67.57 % 
-Unknown Editor           2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
+IntelliJ IDEA            4 hrs 48 mins       █████████████████░░░░░░░░   67.42 % 
+Unknown Editor           2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
 WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 4 hrs 6 mins        ██████████████░░░░░░░░░░░   57.27 % 
-intelligent-analysis-plat3 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.19 % 
+chronic-care-ai-platform 4 hrs 4 mins        ██████████████░░░░░░░░░░░   57.08 % 
+intelligent-analysis-plat3 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.38 % 
 chronic-care-ai-platform-2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
@@ -84,7 +84,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2026 17:14:34 UTC
+ Last Updated on 30/05/2026 19:24:51 UTC
 <!--END_SECTION:waka-->
 
 
