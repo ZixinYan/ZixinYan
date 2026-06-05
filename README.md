@@ -25,7 +25,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
@@ -54,20 +54,21 @@
 
 ```text
 💬 编程语言: 
-Java                     1 hr 25 mins        ███████████░░░░░░░░░░░░░░   42.74 % 
-Text                     1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   39.66 % 
-Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-XML                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Text                     1 hr 21 mins        ███████████░░░░░░░░░░░░░░   42.50 % 
+Java                     50 mins             ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+PlantUML                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            2 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.04 % 
-Unknown Editor           2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.29 % 
-Claude Code              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Unknown Editor           2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.46 % 
+IntelliJ IDEA            1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   34.51 % 
+Claude Code              1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
 
 🐱‍💻 项目: 
-chronic-care-ai-platform 1 hr 46 mins        █████████████░░░░░░░░░░░░   53.39 % 
-intelligent-analysis-plat1 hr 33 mins        ████████████░░░░░░░░░░░░░   46.61 % 
+chronic-care-ai-platform 2 hrs 58 mins       ███████████████████████░░   93.40 % 
+ML_Platform              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+intelligent-analysis-plat2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 **我最常使用 Java** 
@@ -83,7 +84,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 18:04:14 UTC
+ Last Updated on 05/06/2026 20:49:41 UTC
 <!--END_SECTION:waka-->
 
 
