@@ -74,17 +74,17 @@ No AI Coding Activity Tracked This Week
 **我最常使用 Java** 
 
 ```text
-Java                     9 repos             ███████████░░░░░░░░░░░░░░   45.00 % 
-Vue                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Java                     9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+Vue                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 02/08/2026 03:46:08 UTC
+ Last Updated on 02/08/2026 06:38:02 UTC
 <!--END_SECTION:waka-->
 
 
